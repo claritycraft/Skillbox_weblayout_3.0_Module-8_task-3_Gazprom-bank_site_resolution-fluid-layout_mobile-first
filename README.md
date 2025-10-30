@@ -1,0 +1,1 @@
+# Skillbox_weblayout_3.0_8-module_task-3_Gazprom-bank_site_resolution-fluid-layout_mobile-first
