@@ -5,6 +5,7 @@ En: Completed coursework for the Skillbox Web Development 3.0 course, Module 8, 
 Ru: Завершённая курсовая работа по курсу Skillbox «Веб-разработка 3.0», модуль 8, задание 3: Одностраничная верстка сайта Газпромбанка с резиновой сеткой и приоритетом мобильных устройств (mobile-first)
 
 En: Portfolio layout link: https://www.figma.com/design/OwE6DGnjGY4qWf3fNpDcRI/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2-FWEB-6264?node-id=4-5198&t=GdP3vMkOvknJKtPS-0
+
 Ru: Ссылка на макет c портфолио: https://www.figma.com/design/OwE6DGnjGY4qWf3fNpDcRI/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2-FWEB-6264?node-id=4-5198&t=GdP3vMkOvknJKtPS-0
 
 # Technologies Used
