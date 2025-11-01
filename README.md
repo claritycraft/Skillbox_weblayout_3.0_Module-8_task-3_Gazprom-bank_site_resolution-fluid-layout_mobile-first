@@ -1,25 +1,38 @@
 # En: Skillbox_weblayout_3.0_Module-8_task-3_Gazprom-bank_site_resolution-fluid-layout_mobile-first
 # Ru: Задание 3 из модуля 8 курса Skillbox по веб-верстке (версия 3.0): сайт Газпромбанка с резиновой версткой, адаптированной под разные разрешения экрана, с приоритетом мобильных устройств ("mobile-first")
 
-### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
-### Please give this project a star ⭐ if you found it interesting.
+#### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
+#### Please give this project a star ⭐ if you found it interesting.
 
 En: Completed coursework for the Skillbox Web Development 3.0 course, Module 8, Assignment 3: Single-page layout for the Gazprombank site for resolution fluid layout mobile-first
 Ru: Завершённая курсовая работа по курсу Skillbox «Веб-разработка 3.0», модуль 8, задание 3: Одностраничная верстка сайта Газпромбанка с резиновой сеткой и приоритетом мобильных устройств (mobile-first)
+
+## En: Completed Task:
+Refine the fluid, responsive layout of the “Privileges” page for the Gazprombank website, based on the design provided in the Figma mockup.
+
+## Ru: Выполненное задание: 
+Доработайте резиновую адаптивную вёрстку страницы «Привилегии» для сайта «Газпромбанка», основываясь на дизайне из предоставленного макета в Figma.
 
 En: Portfolio layout link: https://www.figma.com/design/OwE6DGnjGY4qWf3fNpDcRI/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2-FWEB-6264?node-id=4-5198&t=GdP3vMkOvknJKtPS-0
 
 Ru: Ссылка на макет c портфолио: https://www.figma.com/design/OwE6DGnjGY4qWf3fNpDcRI/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2-FWEB-6264?node-id=4-5198&t=GdP3vMkOvknJKtPS-0
 
-# Technologies Used
-HTML5
-CSS3
-Flexbox / Grid
-Media Queries
-Figma (design mockup)
+## En: Technologies Used
+## Ru: Используемые технологии
 
-# License
+- HTML5
+- CSS3
+- Flexbox / Grid
+- Media Queries
+- Figma (design mockup)
+
+## En: License
 This project is for educational purposes only. Do not copy or redistribute without permission.
+
+## Ru: Лицензия
+Этот проект предназначен исключительно для образовательных целей. Не копируйте и не распространяйте без разрешения.
+
+# En: Site Gazprom bank / Ru: Сайт Газпром бaнк
 
 # Desktop — 1536px
 <img width="1536" height="6599" alt="Desktop - 1536" src="https://github.com/user-attachments/assets/9e9b2af7-e46d-44e7-a97d-1bfa66e739b9" />
