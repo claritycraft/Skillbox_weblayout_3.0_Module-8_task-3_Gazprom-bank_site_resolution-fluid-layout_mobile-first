@@ -1,6 +1,9 @@
 # En: Skillbox_weblayout_3.0_Module-8_task-3_Gazprom-bank_site_resolution-fluid-layout_mobile-first
 # Ru: Задание 3 из модуля 8 курса Skillbox по веб-верстке (версия 3.0): сайт Газпромбанка с резиновой версткой, адаптированной под разные разрешения экрана, с приоритетом мобильных устройств ("mobile-first")
 
+### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
+### Please give this project a star ⭐ if you found it interesting.
+
 En: Completed coursework for the Skillbox Web Development 3.0 course, Module 8, Assignment 3: Single-page layout for the Gazprombank site for resolution fluid layout mobile-first
 Ru: Завершённая курсовая работа по курсу Skillbox «Веб-разработка 3.0», модуль 8, задание 3: Одностраничная верстка сайта Газпромбанка с резиновой сеткой и приоритетом мобильных устройств (mobile-first)
 
